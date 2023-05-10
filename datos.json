@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "imagen": null,
+      "titulo": "json-server",
+      "detalle": "info del detalle"
+    },
+    {
+      "id": 2,
+      "titulo": "Espero que funcione",
+      "detalle": "Espero que esperas"
+    },
+    {
+      "id": 3,
+      "titulo": "otra cosa",
+      "detalle": "Como así"
+    },
+    {
+      "id": 4,
+      "titulo": "Miren lo bonito",
+      "detalle": "que es esto"
+    },
+    {
+      "id": 5,
+      "titulo": "Cargar ahora si se ve",
+      "detalle": "porque refresco lo post"
+    },
+    {
+      "id": 6,
+      "titulo": "esto parece que",
+      "detalle": "está funcionando"
+    }
+  ],
+  "comentarios": [
+    {
+      "id": 1,
+      "posts": 1,
+      "titulo": "Me gusta json-server",
+      "detalle": "info del detalle"
+    }
+  ]
+}
